@@ -1,4 +1,4 @@
-# HotelManagementSystem
+# HotelManagementSystem 🏨
 A simple management system which uses C++ concepts like Classes and File inheritance
 This  offers a number of choices, like reserving a room, reviewing customer information, changing or removing any client, and seeing all rooms that have been assigned. 
 The services provided by the system after updating all the rooms present in the hotel are:
